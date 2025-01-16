@@ -1,0 +1,54 @@
+local BanReason = {
+    -- 1 user
+    ["MTEyMzY1NTk1"] = "idk i forgout lol",
+    ["MzI3ODM0OTE0"] = "idk i forgout lol",
+    ["ODU3MGRlZmYtNjNjOS00ZmFiLTliYmEtZDdlOTg4OWY4MzAz"] = "idk i forgout lol",
+    ["ODYuMTYxLjE2MC4xMg=="] = "idk i forgout lol",
+    -- 2 user
+    ["Sm9obkRlcmVrMjA="] = "idk i forgout lol",
+    ["MjE5ODY2NjM0"] = "idk i forgout lol",
+    ["ZDEyZGZhMDktZGU5NS00N2VlLWE2M2YtZTk2YTBkMjc0NTVk"] = "idk i forgout lol",
+    ["MTM2LjE1OC42NS4xMjg="] = "idk i forgout lol",
+    -- 3 user
+    ["TWFya1Nrb3JyeQ=="] = "Getting so much website ugc.",
+    ["MjAwMjczOTc0MQ=="] = "Getting so much website ugc.",
+    ["NGY0Y2Y4YWEtODIyMS00ZmM5LTkwY2UtMmFmNmUyMTBkOTY4"] = "Getting so much website ugc.",
+    ["NzkuMTQyLjIwNS40NA=="] = "Getting so much website ugc.",
+    -- 4 user
+    [""] = "",
+    [""] = "",
+    [""] = "",
+    [""] = "",
+    -- 5 user
+    [""] = "",
+    [""] = "",
+    [""] = "",
+    [""] = "",
+    -- 6 user
+    [""] = "",
+    [""] = "",
+    [""] = "",
+    [""] = "",
+    -- 7 user
+    [""] = "",
+    [""] = "",
+    [""] = "",
+    [""] = "",
+    -- 8 user
+    [""] = "",
+    [""] = "",
+    [""] = "",
+    [""] = "",
+    -- 9 user
+    [""] = "",
+    [""] = "",
+    [""] = "",
+    [""] = "",
+    -- 10 user
+    [""] = "",
+    [""] = "",
+    [""] = "",
+    [""] = ""
+}
+
+return BanReason
