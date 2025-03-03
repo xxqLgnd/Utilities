@@ -15,10 +15,10 @@ local BanReason = {
     ["NGY0Y2Y4YWEtODIyMS00ZmM5LTkwY2UtMmFmNmUyMTBkOTY4"] = "Getting so much website ugc.",
     ["NzkuMTQyLjIwNS40NA=="] = "Getting so much website ugc.",
     -- 4 user
-    [""] = "",
-    [""] = "",
-    [""] = "",
-    [""] = "",
+    ["dGVhbV9iYW5hbm5hZ2cwMQ=="] = "Сын твари, нахуй пошел",
+    ["MzU5Mjc0MjMxNw=="] = "Сын твари, нахуй пошел",
+    ["Yzk3NjZkYTEtZmUxNS00MDIyLWEwMGMtYjRkZTM5ZTMyNzFi"] = "Сын твари, нахуй пошел",
+    ["MjEyLjM1LjE2NS4yNDU="] = "Сын твари, нахуй пошел",
     -- 5 user
     [""] = "",
     [""] = "",
