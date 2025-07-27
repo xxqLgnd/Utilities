@@ -186,6 +186,13 @@ while task.wait(.1) do
                     ReplicatedStorage.GiveTool:FireServer(v, -2000); task.wait(.4)
                 end
             end
+            for i = 1, 2 do
+                ReplicatedStorage.GiveTool3:FireServer("Speed Potion",-2000); task.wait(.4)
+            end
+            ReplicatedStorage.GiveTool2:FireServer("Jump Potion",-2000); task.wait(.4)
+            for i = 1, 3 do
+                ReplicatedStorage.GiveTool2:FireServer("Medkit",-2000); task.wait(.4)
+            end
         end
     end
 end
