@@ -25,9 +25,9 @@ local BanReason = {
     ["NmQ4ZmJlNmYtN2UxNy00ZDVjLTk0MmEtN2I1ZGZmOTE4OTVl"] = "not for you idiot",
     ["MTgwLjI0Ny41Ni41NQ=="] = "not for you idiot",
     -- 6 user
-    [""] = "я не овнер скрипта",
-    [""] = "я не овнер скрипта",
-    [""] = "я не овнер скрипта",
+    [""] = "",
+    [""] = "",
+    [""] = "",
     [""] = "",
     -- 7 user
     [""] = "",
