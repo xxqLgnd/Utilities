@@ -145,6 +145,11 @@ SectionR:Button({Title = "Teleport Tool", Callback = function()
 	loadstring(game:HttpGet("https://pastefy.app/spn8O2kz/raw",true))()
 end})
 
+SectionR:Paragarp({
+    Title = "Stupid Leakers", 
+    Desc = "F#ck you who leaked this script to dev (astehero)"
+})
+
 local Update = Window:Add({
 	Title = "Connect Hub",
 	Desc = UISettings.Game,
@@ -156,5 +161,4 @@ local UpdateL = Update:Section({
 	Side = 'l'
 })
 
-UpdateL:Discord(".gg/trSwdwm6Hp")
 UpdateL:Telegram("t.me/LimitedUGCnotifier")
