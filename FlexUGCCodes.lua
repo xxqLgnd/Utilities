@@ -26,20 +26,6 @@ local function LoadSettings()
     return nil
 end
 
-local function CheckActiveCrate()
-    for i,v in pairs(LocalPlayer.PlayerGui.ScreenGui.ScrollingFrame.Frame.CasesF:GetChildren()) do
-        if v:IsA("Folder") then
-            for i,z in pairs(v:GetChildren()) do
-                if z:IsA("ScrollingFrame") and z.Name == "ScrollingFrame" and z.Visible then
-                    return false
-                end
-            end
-        end
-    end
-
-    return true
-end
-
 local LoadedSettings = LoadSettings()
 
 if LoadedSettings then
