@@ -5,8 +5,7 @@ getgenv().Settings = {
     Skip = 0,
     Speed = false,
     SpeedBasic = 16,
-    CustomSpeed = 16,
-    Version = "1.0.5"
+    CustomSpeed = 16
 }
 
 local File = "connecthub_settings.json"
@@ -69,9 +68,10 @@ local function FireTouchTransmitter(part)
 end
 
 local ui = loadstring(game:HttpGet("https://raw.githubusercontent.com/xxqLgnd/Library/main/uiV3.lua", true))()
+local Version = "1.0.5"
 
 local UISettings = {
-    ['Game'] = string.format(game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name .. " %s", Settings.Version),
+    ['Game'] = string.format(game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name .. " %s", Version),
 	['Auto'] = 110162136250435,
     ['Update'] = 86844430363710
 }
